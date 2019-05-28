@@ -1,0 +1,25 @@
+_repo: Il-Ricciardetto-vol-I_59568
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Procacci, Giovanni
+    gutenberg_agent_id: '50516'
+    url: http://www.gutenberg.org/2009/agents/50516
+creator:
+  author:
+    agent_name: Forteguerri, Niccolò
+    gutenberg_agent_id: '50515'
+    url: http://www.gutenberg.org/2009/agents/50515
+description: ''
+gutenberg_issued: '2019-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59568'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Il Ricciardetto, vol. I
+url: http://www.gutenberg.org/ebooks/59568
